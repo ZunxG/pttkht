@@ -1,0 +1,5 @@
+# Cơ sở dữ liệu được tạo khi chạy: python seed_mockup.py
+thesishub.db
+thesishub.db-journal
+__pycache__/
+*.pyc
